@@ -1,1 +1,2 @@
 Discovery Service - Eureka Server
+Port: 8761
