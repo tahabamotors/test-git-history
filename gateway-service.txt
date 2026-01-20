@@ -1,1 +1,2 @@
 Gateway Service - Spring Cloud Gateway
+Port: 8222
