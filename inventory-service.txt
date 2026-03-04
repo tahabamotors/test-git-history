@@ -1,1 +1,2 @@
 Inventory IT Service
+Entity: InventoryItem, StockMovement
