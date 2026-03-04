@@ -1,0 +1,4 @@
+Gateway Service - Spring Cloud Gateway
+Port: 8222
+JWT validation via Keycloak JWKS
+Resilience4j circuit breaker configured
