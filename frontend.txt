@@ -1,3 +1,4 @@
 BAMotors UI - React 18 + TypeScript
 Auth: Keycloak integration
 Pages: Dashboard, RequestList, RequestDetail
+Pages: Inventory, Notifications, BI Dashboard
